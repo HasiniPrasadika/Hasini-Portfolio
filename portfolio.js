@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Hide preloader and show main content
     document.getElementById('preloader').style.display = 'none';
     document.body.classList.remove('loading');
-  }, 2000); // 5000 milliseconds = 5 seconds
+  }, 4000); // 5000 milliseconds = 5 seconds
 });
 
 
